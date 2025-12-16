@@ -28,13 +28,13 @@ I solve problems and upload **clean, well-structured solutions** to strengthen m
 - To prepare for **coding interviews & placements**
 - To help **beginners** starting their DSA journey
 
---
+---
 
 ## 🚧 Work in Progress
 
 This repository is actively maintained and updated as I continue learning and practicing DSA.
 
---
+
 
 ### ✨ Happy Coding & Vanakkam 🙏
 
